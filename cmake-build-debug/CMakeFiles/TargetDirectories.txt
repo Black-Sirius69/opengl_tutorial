@@ -1,0 +1,4 @@
+C:/dev/opengl_tutorial/cmake-build-debug/CMakeFiles/copy_resources.dir
+C:/dev/opengl_tutorial/cmake-build-debug/CMakeFiles/opengl_tutorial.dir
+C:/dev/opengl_tutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/dev/opengl_tutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
